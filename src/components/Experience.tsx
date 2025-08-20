@@ -25,10 +25,10 @@ const Experience = () => {
                   <h4 className="text-lg font-semibold mb-3">Infosys, India</h4>
                   <ul className="list-disc list-inside space-y-2 text-muted-foreground">
                      <li>Designed and supported CI/CD pipelines using GitHub Actions and Azure DevOps</li>
-                     <li>Managed deployments and production support on AWS cloud environments</li>
-                     <li>Implemented monitoring and alerting with Dynatrace, Datadog, and ITRS</li>
+                     <li>Managed deployments and production support on Azure cloud environments</li>
+                     <li>Implemented monitoring and alerting with Splunk & Solace </li>
                      <li>Optimized SQL queries and automated system tasks using Unix/Linux scripting</li>
-                     <li>Collaborated with cross-functional teams to resolve incidents and improve system reliability</li>
+                     <li>Collaborated with cross-functional teams to resolve incidents and improve system reliability using Service Now, Jira, Confluence & Atlassian</li>
                   </ul>
                   </Card>
                 </div>
@@ -45,8 +45,8 @@ const Experience = () => {
                     <h4 className="text-lg font-semibold mb-3">Infosys, India</h4>
                     <ul className="list-disc list-inside space-y-2 text-muted-foreground">
                       <li>Developed and deployed APIs using Mule runtime (4.3.0 & 4.4.0) and DataWeave, achieving a 20% increase in data transformation efficiency (JSON, XML, CSV).</li>
-                      <li>Prepared MUnit test cases, handled handovers post-signoff for production deployment, and utilized tools such as AnyPoint Studio, Postman, Oracle SQL Developer, Solace, and Splunk to streamline the monitoring and management of deployments.</li>
-                      <li>Developed several multi-layered architectures (EAPI, SAPI, PAPI), including designing and developing APIs.</li>
+                      <li>Prepared MUnit test cases, handled handovers post-signoff for production deployment, and utilized tools such as AnyPoint Studio, Postman, Oracle SQL Developer, Azure Devops and GitHub actions to streamline Software Development LifeCycle.</li>
+                      <li>Developed several multi-layered architectures (EAPI, SAPI, PAPI), including designing and developing APIs using Anypoint Platform.</li>
                     </ul>
                   </Card>
                 </div>
