@@ -9,15 +9,15 @@ const Skills = () => {
   },
   {
     title: "Integration & API",
-    skills: ["MuleSoft API Design & Deployment", "Postman", "Solace", "API Management"]
+    skills: ["MuleSoft API Design & Deployment", "Postman", "API Management", "Anypoint Platform & Studio"]
   },
   {
     title: "Cloud & DevOps",
-    skills: ["AWS", "Azure DevOps", "Docker", "Kubernetes", "CI/CD Pipelines"]
+    skills: ["AWS", "Azure DevOps", "Docker", "Kubernetes", "CI/CD Pipelines", "Jenkins"]
   },
   {
     title: "Monitoring & Logging",
-    skills: ["Splunk", "Prometheus", "Grafana"]
+    skills: ["Splunk", "Prometheus", "Grafana", "Solace"]
   },
   {
     title: "Databases",
@@ -25,7 +25,7 @@ const Skills = () => {
   },
   {
     title: "Operating Systems",
-    skills: ["Linux (Ubuntu, RedHat)", "Windows Server"]
+    skills: ["Linux (Ubuntu)", "Windows Server"]
   },
   {
     title: "Soft Skills",
@@ -35,25 +35,20 @@ const Skills = () => {
 
 const certifications = [
   {
-    title: "MuleSoft Certified Developer",
-    issuer: "MuleSoft",
-    year: "2024"
-  },
-  {
     title: "Solace Solution Architect Certified",
     issuer: "Solace",
-    year: "2024"
+    year: "2023"
   },
   {
     title: "Microsoft Azure Fundamentals (AZ-900)",
     issuer: "Microsoft",
-    year: "2023"
+    year: "2025"
   },
   {
-    title: "AWS Certified Training – Data Engineer",
+    title: "AWS Certified – Data Engineer (In Progress) ",
     issuer: "AWS",
-    year: "2024"
-  }
+    year: "2025"
+  },
 ];
 
   return (
