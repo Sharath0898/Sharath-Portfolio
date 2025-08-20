@@ -17,7 +17,7 @@ const Education = () => {
             <div className="relative grid grid-cols-1 md:grid-cols-2 gap-8">
               <div className="md:text-right space-y-4 md:order-1 md:pr-8">
                 <h3 className="text-xl font-semibold text-primary">Post Graduate Diploma</h3>
-                <p className="text-muted-foreground">2024 – 2025</p>
+                <p className="text-muted-foreground"> JAN 2024 – AUG 2025</p>
               </div>
               <div className="md:order-2 md:pl-8">
                 <div className="absolute left-0 top-1 w-2 h-2 rounded-full bg-primary md:left-1/2 md:-ml-1"></div>
@@ -31,7 +31,7 @@ const Education = () => {
             <div className="relative grid grid-cols-1 md:grid-cols-2 gap-8">
               <div className="md:text-right space-y-4 md:order-1 md:pr-8">
                 <h3 className="text-xl font-semibold text-primary">Bachelor's in Inforamtion Technology</h3>
-                <p className="text-muted-foreground">2016 – 2020</p>
+                <p className="text-muted-foreground">JUL 2016 – AUG 2020</p>
               </div>
               <div className="md:order-2 md:pl-8">
                 <div className="absolute left-0 top-1 w-2 h-2 rounded-full bg-primary md:left-1/2 md:-ml-1"></div>
