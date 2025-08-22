@@ -1,6 +1,5 @@
-
 import React from 'react';
-import { Github, Linkedin, Mail, ArrowUp } from 'lucide-react';
+import { Github, Linkedin, Mail, ArrowUp, BookOpen } from 'lucide-react';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -37,13 +36,22 @@ const Footer = () => {
               <Github size={18} />
             </a>
             <a 
-              href="linkedin.com/in/sharath-l"
+              href="https://linkedin.com/in/sharath-l"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
               aria-label="LinkedIn"
             >
               <Linkedin size={18} />
+            </a>
+            <a 
+              href="https://medium.com/@sharath.lnair08"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-muted-foreground hover:text-primary transition-colors"
+              aria-label="Medium"
+            >
+              <BookOpen size={18} />
             </a>
             
             <button 
