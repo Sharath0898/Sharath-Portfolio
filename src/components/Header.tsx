@@ -1,6 +1,5 @@
-
 import React from 'react';
-import { Github, Linkedin, Mail, ChevronDown } from 'lucide-react';
+import { Github, Linkedin, Mail, ChevronDown, BookOpen } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 
 const Header = () => {
@@ -28,6 +27,9 @@ const Header = () => {
           </a>
           <a href="https://linkedin.com/in/sharath-l" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
             <Linkedin size={20} />
+          </a>
+          <a href="https://medium.com/@sharath.lnair08" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
+            <BookOpen size={20} />
           </a>
           <Button onClick={scrollToContact} className="bg-secondary hover:bg-secondary/80 text-primary hidden md:flex">
             Contact Me
