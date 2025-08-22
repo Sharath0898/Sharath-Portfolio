@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Card, CardContent } from '@/components/ui/card';
 
@@ -29,6 +28,7 @@ const About = () => {
                 <div className="flex flex-col gap-1">
                   <a href="https://linkedin.com/in/sharath-l" target="_blank" rel="noopener noreferrer" className="text-sm hover:text-primary transition-colors">LinkedIn</a>
                   <a href="https://github.com/Sharath0898" target="_blank" rel="noopener noreferrer" className="text-sm hover:text-primary transition-colors">GitHub</a>
+                  <a href="https://medium.com/@sharath.lnair08" target="_blank" rel="noopener noreferrer" className="text-sm hover:text-primary transition-colors">Medium</a>
                 </div>
               </div>
             </div>
