@@ -49,7 +49,7 @@ const Hero = () => {
           <div className="hidden md:flex md:flex-1 justify-center items-center">
             <div className="relative w-80 h-80 rounded-full overflow-hidden shadow-xl animate-float">
               <img
-                src="/20201007_114452.jpg"
+                src="/Sharath Image.jpg"
                 alt="Sharath Lohidakshan"
                 className="w-full h-full object-cover"
               />
