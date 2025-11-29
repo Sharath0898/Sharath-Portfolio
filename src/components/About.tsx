@@ -13,7 +13,7 @@ const About = () => {
           <div className="absolute top-0 right-0 w-64 h-64 bg-primary/5 rounded-full blur-3xl -z-10"></div>
           <CardContent className="p-6 md:p-10">
             <p className="text-lg leading-relaxed max-w-3xl">
-             I am a dedicated DevOps and Cloud Engineer with 2.9 years of professional experience in designing, deploying, and supporting cloud-based solutions in enterprise environments. My expertise spans across AWS production support, CI/CD automation, containerization, and infrastructure as code. I thrive on ensuring system reliability, optimizing deployment pipelines, and solving complex problems in high-demand production setups. Currently, I am enhancing my skills through academic learning and hands-on projects, while actively contributing to enterprise-scale implementations that deliver real business impact.
+             I am a dedicated DevOps and Cloud Engineer with 3 years of professional experience in designing, deploying, and supporting cloud-based solutions in enterprise environments. My expertise spans across Azure Cloud Support, CI/CD Automation, Containerization, and API SDLC. I thrive on ensuring system reliability, optimizing deployment pipelines, and solving complex problems in high-demand production setups. Currently, I am enhancing my skills through academic learning and hands-on projects, while actively contributing to enterprise-scale implementations that deliver real business impact.
             </p>
 
             <div className="mt-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
